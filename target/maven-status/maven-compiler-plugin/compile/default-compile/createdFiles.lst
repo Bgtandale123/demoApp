@@ -1,0 +1,7 @@
+student\com\demo\model\Student.class
+student\com\demo\ServletInitializer.class
+student\com\demo\Application.class
+student\com\demo\repository\StudentRepository.class
+student\com\demo\service\StudentService.class
+student\com\demo\controller\StudentController.class
+student\com\demo\serviceImpl\StudentServiceImpl.class
